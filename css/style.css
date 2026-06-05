@@ -794,6 +794,7 @@ form .input::placeholder {
     .img-about {
         max-width: 300px;
         box-shadow: 15px 15px #DEE4E2;
+        margin: 0 auto;
     }
 
     .title-4 {
@@ -834,6 +835,7 @@ form .input::placeholder {
         flex-direction: row;
         gap: 20px;
         align-items: center;
+        justify-content: space-between;
     }
 
     .tabs-btns {
